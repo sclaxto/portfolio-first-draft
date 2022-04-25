@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Fontdiner+Swanky&family=Lato:wght@300&family=Modak&family=Roboto:wght@100&family=Updock&family=Zilla+Slab+Highlight:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Be+Vietnam+Pro:wght@100&family=Fontdiner+Swanky&family=Lato:wght@300&family=Modak&family=Roboto:wght@100&family=Ultra&family=Updock&family=Zilla+Slab+Highlight:wght@700&display=swap');
+
+body {
+    background-color: #e5e3dc;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+h1 {
+    font-size: 75px;
+    font-family: bangers;
+    
+
+
+}
+
+#me{
+    display:grid
+}
+
+nav {
+    display: flex; 
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+    font-family: be vietnam pro;
+}
+
+hr {
+    color: black;
+}
+
+#about-me {
+    font-family: be vietnam pro;
+    display: column;
+    align-content: stretch;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: baseline;
+
+
+}
+
+#projects { 
+    font-family: be vietnam pro;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+div {
+    font-size: 15px;
+   
+
+}
+
+b {
+    font-weight: 200;
+    font-size: 30px;
+    display: grid;
+    justify-content: center;
+}
